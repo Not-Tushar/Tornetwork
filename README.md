@@ -1,5 +1,6 @@
-# Tornetwork
+# Tornetwork-BY-tushar
 This change tor IP not reload the connection.
+This tool more anonymous then another reload conection.
 
 ## Supported Distributions
 
@@ -9,7 +10,6 @@ This change tor IP not reload the connection.
 - Parrot OS
 - Fedora
 - OpenSUSE 
--
 
 ## Setup 
 
@@ -28,3 +28,6 @@ chmod +x setup.sh
 ```bash
 ./setup.sh
 ```
+
+## This save LOG in your system  [ONLY]
+
