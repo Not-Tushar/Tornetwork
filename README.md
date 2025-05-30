@@ -32,7 +32,7 @@ sudo ./ip-changer.sh
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/techchipnet/ip-changer.git
+git clone https://github.com/Not-Tushar/Tornetwork.git
 cd ip-changer
 ```
 
