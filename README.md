@@ -4,7 +4,7 @@ This tool more anonymous then another reload conection.
 
 ## Important 
 - This tool help to change your ip when you use 
-proxychains or proxuchains4 
+proxychains or proxychains4 
 
 ## Supported Distributions
 
