@@ -20,7 +20,7 @@ proxychains or proxuchains4
 1. Clone the repository:
 ```bash
 git clone https://github.com/Not-Tushar/Tornetwork.git
-cd ip-changer
+cd Tornetwork
 ```
 
 2. Make the installation script executable:
