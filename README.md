@@ -1,4 +1,4 @@
-# Tornetwork-BY-tushar
+# Tornetwork-By-tushar
 This change tor IP not reload the connection.
 This tool more anonymous then another reload conection.
 
