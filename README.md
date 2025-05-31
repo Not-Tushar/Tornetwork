@@ -2,6 +2,10 @@
 This change tor IP not reload the connection.
 This tool more anonymous then another reload conection.
 
+## Important 
+- This tool help to change your ip when you use 
+proxychains or proxuchains4 
+
 ## Supported Distributions
 
 - Arch Linux / Manjaro
